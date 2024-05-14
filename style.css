@@ -12,5 +12,16 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'Chakra Petch', sans-serif ;
+    font-family: 'Chakra Petch', sans-serif;
 }
+
+.sessao_objetivos    {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
